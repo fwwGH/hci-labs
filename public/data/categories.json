@@ -5,7 +5,8 @@
     "nameEn": "Binoculars",
     "slug": "binokli",
     "count": 35,
-    "icon": "🔭"
+    "icon": "🔭",
+    "iconFile": "binokly"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "nameEn": "Telescopes",
     "slug": "teleskopy",
     "count": 35,
-    "icon": "🌌"
+    "icon": "🌌",
+    "iconFile": "telescope"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "nameEn": "Rangefinders",
     "slug": "dalnomery",
     "count": 35,
-    "icon": "📏"
+    "icon": "📏",
+    "iconFile": "dalnomeri"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "nameEn": "Spotting Scopes",
     "slug": "zritelnye-truby",
     "count": 35,
-    "icon": "🔬"
+    "icon": "🔬",
+    "iconFile": "ZritelTrubi"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "nameEn": "Scopes",
     "slug": "pritsely",
     "count": 35,
-    "icon": "🎯"
+    "icon": "🎯",
+    "iconFile": "crosshair"
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "nameEn": "Magnifiers",
     "slug": "lupy",
     "count": 25,
-    "icon": "🔍"
+    "icon": "🔍",
+    "iconFile": "loopi"
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "nameEn": "Monoculars",
     "slug": "monokulary",
     "count": 35,
-    "icon": "👁"
+    "icon": "👁",
+    "iconFile": "monoculars"
   },
   {
     "id": 8,
@@ -61,7 +68,8 @@
     "nameEn": "Microscopes",
     "slug": "mikroskopy",
     "count": 30,
-    "icon": "🔬"
+    "icon": "🔬",
+    "iconFile": "microscope"
   },
   {
     "id": 9,
@@ -69,7 +77,8 @@
     "nameEn": "Thermal Cameras",
     "slug": "teplovizory",
     "count": 30,
-    "icon": "🌡"
+    "icon": "🌡",
+    "iconFile": "teplovisor"
   },
   {
     "id": 10,
@@ -77,6 +86,7 @@
     "nameEn": "Digital Cameras",
     "slug": "kamery",
     "count": 20,
-    "icon": "📷"
+    "icon": "📷",
+    "iconFile": "digitalcamera"
   }
 ]

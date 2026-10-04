@@ -10,7 +10,14 @@ const Categories = ({ title, categories }) => (
         {categories.map((category) => (
           <Link key={category.slug} to={`/catalog/${category.slug}`} className="category-card">
             <div className="category-icon">
-              <img src={asset(`assets/icons/${category.icon}.svg`)} alt="" width="48" height="48" loading="lazy" />
+              {/* iconFile — имя SVG-файла; поле icon в данных хранит эмодзи категории */}
+              <img
+                src={asset(`assets/icons/${category.iconFile}.svg`)}
+                alt=""
+                width="48"
+                height="48"
+                loading="lazy"
+              />
             </div>
             <div className="category-name">{category.name}</div>
             <div className="category-count">{category.count} товаров</div>
