@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Бинокли",
+    "nameEn": "Binoculars",
+    "slug": "binokli",
+    "count": 35,
+    "icon": "🔭"
+  },
+  {
+    "id": 2,
+    "name": "Телескопы",
+    "nameEn": "Telescopes",
+    "slug": "teleskopy",
+    "count": 35,
+    "icon": "🌌"
+  },
+  {
+    "id": 3,
+    "name": "Дальномеры",
+    "nameEn": "Rangefinders",
+    "slug": "dalnomery",
+    "count": 35,
+    "icon": "📏"
+  },
+  {
+    "id": 4,
+    "name": "Зрительные трубы",
+    "nameEn": "Spotting Scopes",
+    "slug": "zritelnye-truby",
+    "count": 35,
+    "icon": "🔬"
+  },
+  {
+    "id": 5,
+    "name": "Прицелы",
+    "nameEn": "Scopes",
+    "slug": "pritsely",
+    "count": 35,
+    "icon": "🎯"
+  },
+  {
+    "id": 6,
+    "name": "Лупы",
+    "nameEn": "Magnifiers",
+    "slug": "lupy",
+    "count": 25,
+    "icon": "🔍"
+  },
+  {
+    "id": 7,
+    "name": "Монокуляры",
+    "nameEn": "Monoculars",
+    "slug": "monokulary",
+    "count": 35,
+    "icon": "👁"
+  },
+  {
+    "id": 8,
+    "name": "Микроскопы",
+    "nameEn": "Microscopes",
+    "slug": "mikroskopy",
+    "count": 30,
+    "icon": "🔬"
+  },
+  {
+    "id": 9,
+    "name": "Тепловизоры",
+    "nameEn": "Thermal Cameras",
+    "slug": "teplovizory",
+    "count": 30,
+    "icon": "🌡"
+  },
+  {
+    "id": 10,
+    "name": "Цифровые камеры",
+    "nameEn": "Digital Cameras",
+    "slug": "kamery",
+    "count": 20,
+    "icon": "📷"
+  }
+]
