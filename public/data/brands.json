@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bresser"
+  },
+  {
+    "id": 2,
+    "name": "Burris"
+  },
+  {
+    "id": 3,
+    "name": "Bushnell"
+  },
+  {
+    "id": 4,
+    "name": "Celestron"
+  },
+  {
+    "id": 5,
+    "name": "Eschenbach"
+  },
+  {
+    "id": 6,
+    "name": "FLIR"
+  },
+  {
+    "id": 7,
+    "name": "HIKMICRO"
+  },
+  {
+    "id": 8,
+    "name": "Kowa"
+  },
+  {
+    "id": 9,
+    "name": "Leica"
+  },
+  {
+    "id": 10,
+    "name": "Levenhuk"
+  },
+  {
+    "id": 11,
+    "name": "March"
+  },
+  {
+    "id": 12,
+    "name": "Meade"
+  },
+  {
+    "id": 13,
+    "name": "Nikon"
+  },
+  {
+    "id": 14,
+    "name": "Olympus"
+  },
+  {
+    "id": 15,
+    "name": "Sky-Watcher"
+  },
+  {
+    "id": 16,
+    "name": "Veber"
+  },
+  {
+    "id": 17,
+    "name": "Vortex"
+  },
+  {
+    "id": 18,
+    "name": "Yukon"
+  }
+]
