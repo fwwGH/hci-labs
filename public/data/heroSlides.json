@@ -1,0 +1,34 @@
+{
+  "mainSlides": [
+    {
+      "image": "assets/images/BigBanner1.png",
+      "alt": "Баннер 1"
+    },
+    {
+      "image": "assets/images/BigBanner2.png",
+      "alt": "Баннер 2"
+    },
+    {
+      "image": "assets/images/BigBanner3.png",
+      "alt": "Баннер 3"
+    },
+    {
+      "image": "assets/images/BigBanner4.png",
+      "alt": "Баннер 4"
+    },
+    {
+      "image": "assets/images/BigBanner5.png",
+      "alt": "Баннер 5"
+    }
+  ],
+  "sideSlides": [
+    {
+      "image": "assets/images/SecondBanner1.png",
+      "alt": "Баннер 6"
+    },
+    {
+      "image": "assets/images/SecondBanner2.png",
+      "alt": "Баннер 7"
+    }
+  ]
+}

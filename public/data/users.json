@@ -1,0 +1,23 @@
+[
+  {
+    "id": "2",
+    "name": "Иван Петров",
+    "email": "ivan@mail.ru",
+    "phone": "+375 (29) 200-00-02",
+    "role": "user"
+  },
+  {
+    "id": "3",
+    "name": "Мария Козлова",
+    "email": "maria@mail.ru",
+    "phone": "+375 (29) 300-00-03",
+    "role": "user"
+  },
+  {
+    "id": "4",
+    "name": "Алексей Новиков",
+    "email": "alex@mail.ru",
+    "phone": "+375 (29) 400-00-04",
+    "role": "user"
+  }
+]

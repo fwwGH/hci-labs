@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "МЫ СНИЗИЛИ ЦЕНЫ! НА НОЧНУЮ ОПТИКУ",
+    "titleEn": "WE LOWERED PRICES! ON NIGHT OPTICS",
+    "subtitle": "Прицел ночного видения Digisight Ultra N455 LRF с дальномером",
+    "subtitleEn": "Digisight Ultra N455 LRF Night Vision Scope with rangefinder",
+    "oldPrice": "155 490",
+    "newPrice": "149 990",
+    "btnText": "Подробнее →",
+    "btnTextEn": "Learn more →",
+    "productId": 12
+  },
+  {
+    "id": "2",
+    "title": "БИНОКЛЬ DISCOVERY FLINT 8×40",
+    "titleEn": "DISCOVERY FLINT 8×40 BINOCULARS",
+    "subtitle": "Новое поколение полевых биноклей. Отличные оптические характеристики и доступная цена",
+    "subtitleEn": "New generation field binoculars. Excellent optics at an affordable price",
+    "oldPrice": "8 990",
+    "newPrice": "7 490",
+    "btnText": "Подробнее →",
+    "btnTextEn": "Learn more →",
+    "productId": 1
+  }
+]
